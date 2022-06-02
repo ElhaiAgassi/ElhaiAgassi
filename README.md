@@ -1,7 +1,6 @@
 ### Hi everyone 👋 it's me...
 Welcome to My GitHub profile
 <br>
-<br>
 
 ## 👨🏻‍💻 About Me
 
@@ -13,7 +12,6 @@ Welcome to My GitHub profile
 - ⚡: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
-<br>
 
 ## Here some stats
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElhaiAgassi&hide_border=true)](https://git.io/streak-stats) -->
