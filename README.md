@@ -5,7 +5,7 @@ Welcome to My GitHub profile
 ## 👨🏻‍💻 About Me
 
 - 💻: I'm a developer, currently working on An [App](https://github.com/ElhaiAgassi/Angel.git) 📱
-- ⏳:  Exploring Microsoft Azure & Amazone AWS 🌐
+- ⏳:  Exploring ML field, Prolog language and more 🌐
 - 🚀: Always ready to collaborate for Dev Experiments 🧑‍🤝‍🧑
 - 👨‍💻: Love learn new thing every moment 🧠
 - 🎯: Life Hack: "Explore 🔥 and Explode 💣 with knowledge" 
