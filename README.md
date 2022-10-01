@@ -17,7 +17,7 @@ Welcome to My GitHub profile
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElhaiAgassi&hide_border=true)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElhaiAgassi&layout=compact&hide_border=true)](https://github.com/ElhaiAgassi/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElhaiAgassi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Elhais github activity graph](https://activity-graph.herokuapp.com/graph?username=ElhaiAgassi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Elhais github activity graph](https://activity-graph.herokuapp.com/graph?username=ElhaiAgassi&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <br>
